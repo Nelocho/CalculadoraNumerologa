@@ -18,7 +18,7 @@ public class CalculadoraNumerologa {
         // TODO code application logic here
         String aux="Nelson";
         FuncionesCalculadora a=new FuncionesCalculadora();
-        a.recepcionNombre(aux, 3);
+        a.recepcionNombre(aux, 1);
         a.recepcionNombre(aux, 2);
   
        
